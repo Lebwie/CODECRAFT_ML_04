@@ -44,7 +44,7 @@ It enables gesture-based control systems and intuitive human-computer interactio
 
 ## 🔗 Links
 
-- 👨‍💻 **Author**: [Krishna](https://www.linkedin.com/in/krishnachopra)  
+- 👨‍💻 **Author**: [Krishna Chopra](https://www.linkedin.com/in/krishnachopra)  
 - 🐙 **GitHub**: [github.com/Lebwie](https://github.com/Lebwie)
 
 ---
